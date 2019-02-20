@@ -7,11 +7,11 @@ The students’ details will be unorganised and unprocessed which will be a majo
 
 2>Open XAMPP Control panal and start [apache] and [mysql] .
 
-3>Download project from github
+3>Download project from github.
 
-4>extract files in C:\xampp\htdocs.
+4>extract files in C:\xampp\htdocs or C:\wamp64\www.
 
-5> open link localhost/phpmyadmin
+5> open link localhost/phpmyadmin.
 
 6>click on new at side navbar.
 
@@ -23,6 +23,12 @@ The students’ details will be unorganised and unprocessed which will be a majo
 
 10>after importing successfully.
 
-11>open any browser and type http://localhost/
+11>open any browser and type http://localhost/dresscode/Landing.php
 
 12>first register and then login
+
+## Contents
+1>Home page using HTML,CSS and connected to backend using PHP.
+2>Database entry using MySql.
+3>Sql stored procedure and Trigger.
+4>Database live update,delete,display using Ajax.
